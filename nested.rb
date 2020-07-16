@@ -130,6 +130,5 @@ def adding_to_dennis
 
 		 adding_to_dennis[:dennis_ritchie][:languages][1] = "Assembley"
 
-		 adding_to_dennis
 
 end
