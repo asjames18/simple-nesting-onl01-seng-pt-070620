@@ -80,11 +80,8 @@ def adding_matz
           :known_for => "Unix",
           :languages => ["C"]
         }
-				programmer_hash[:grace_hopper] = :yukihiro_matsumoto
-
-
      }
-# programmer_hash[:grace_hopper] = :yukihiro_matsumoto
+programmer_hash[:grace_hopper] = :yukihiro_matsumoto
 
 end
 
