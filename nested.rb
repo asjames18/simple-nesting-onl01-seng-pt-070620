@@ -70,7 +70,7 @@ def adding_matz
  		{
         :grace_hopper => {
           :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+          :languages => ["COBOL", "FORTRAN"],
 
 					programmer_hash[:grace_hopper] = :yukihiro_matsumoto
 
@@ -84,7 +84,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash[:grace_hopper] = :yukihiro_matsumoto
+# programmer_hash[:grace_hopper] = :yukihiro_matsumoto
 
 end
 
